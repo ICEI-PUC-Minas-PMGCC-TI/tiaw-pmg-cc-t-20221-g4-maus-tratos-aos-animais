@@ -111,8 +111,8 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Maria Julia         | Registrar minhas tarefas           | começar uma ONG, então o nosso aplicativo ajudaria ela a realizar seu sonho.               |
+|                    | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
