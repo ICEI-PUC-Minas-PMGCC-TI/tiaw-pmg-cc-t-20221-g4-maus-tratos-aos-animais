@@ -156,8 +156,9 @@ O projeto de interface foi elaborado a fim de facilitar a utilização do sistem
 
 ## User Flow
 
+> A seguir segue uma esquematização de como será o fluxo do usuário pretendido ao final:
 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![userflow](https://user-images.githubusercontent.com/103450981/163736028-afb297d9-ef90-41bc-8404-bb2305ee68ef.PNG)
 
 
 ## Wireframes
@@ -205,7 +206,7 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 > - Editor de código: Visual Studio Code
 > - Ferramentas de comunicação: WhatsApp e Teams
 > - Ferramentas de diagramação: Bizagi
-> - Plataforma de hospedagem> GitHub
+> - Plataforma de hospedagem: GitHub
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
