@@ -87,18 +87,12 @@ Deseja-se por meio deste projeto criar aba de ajuda com denúncias contra maus-t
 
 ## Personas e Mapas de Empatia
 
-Dentre as personas estudadas, percebeu-se pontos em comum que são a vontade de ajudar mais os animais, um prévio envolvimento com ONGs ou clínicas que realizam alguns procedimentos gratuitos em animais, notou-se uma iniciativa de envolver seus próprios amigos no processo de ajuda aos animais, além de terem uma visão de quais instituições mais precisam de ajuda.
+Dentre as personas estudadas, percebeu-se pontos em comum que são a vontade de ajudar mais os animais, um prévio envolvimento com ONGs ou clínicas que realizam alguns procedimentos gratuitos em animais, notou-se uma iniciativa de envolver seus próprios amigos no processo de ajuda aos animais, além de terem uma visão de quais instituições mais precisam de ajuda. Em sua maioria, são mulheres com idade entre 25 e 50 anos que possuem conexão com a natureza.
 
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Persona**
+> 
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
 > 
@@ -115,13 +109,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Marcia              | que exista um serviço em que facilite a alocação de animais encontrados na reserva que foram abandonados e precisam ser tratados| expandir sua ONG e atrair mais membros para a equipe |
 |Fernanda            | um software para adotar cachorros resgatados e abrir a própria clínica veterinária | ajudar animais resgatados |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
@@ -136,6 +123,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O site deve oferecer um cadastro de usuário | ALTA | 
 |RF-002| O site deve conter perfil completo dos cachorros disponíveis para adoção | ALTA |
+|RF-003| O site deve mostrar as ONGs parceiras que precisam ser atendidas e que precisam ser ajudadas | ALTA |
+|RF-004| O site deve demonstrar a maneira correta de se denunciar maus-tratos | MÉDIA |
+|RF-005| O site deve conter informações diversas sobre como cuidar do seu pet | BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -144,10 +134,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003|O sistema deve funcionar tanto em dispositivos Android, quanto em iOS |  BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
 > - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
 >   correspondem a uma funcionalidade que deve estar presente na
 >   plataforma (ex: cadastro de usuário).
@@ -156,11 +144,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 >   correspondem a uma característica técnica, seja de usabilidade,
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
+
 > **Links Úteis**:
 > 
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
@@ -173,13 +157,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| O sistema não garante a resolução do problema, busca-se apenas minimizá-lo |
+|RE-02| O sistema exige conexão com a internet para seu funcionamento        |
+|RE-03| O sistema deve se restringir às tecnologias básicas da Web no Frontend | 
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
+
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
@@ -187,12 +170,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+O projeto de interface foi elaborado a fim de facilitar a utilização do sistema por parte do cliente principal, que são tanto as ONGs que desejam se cadastrar a fim de adquirir mais recursos, quanto àqueles que desejam ajudar os animais em tratamento, seja com adoção, ou com a doação de recursos. As interfaces de solução foram elaboradas a partir de entrevistas de pessoas do ramo, que tiveram como principal queixa o fato de que poucos animais são adotados, enquanto mutos outros são deixados na ONG e lá permanecem durante toda a vida. As personas estudadas foram apresentadas como pessoas que ou já possuem conhecimento sobre ONGs e já participam de uma, ou querem aprimorar e fazer parte de uma. Após a união de todos esses fatores foi possível construir uma interface que atenda às necessidades dos cientes que são os mais interessados na resolução do problema.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -215,88 +194,42 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+https://www.figma.com/file/4kpFmua7PFnK17rxomAxzQ/Maus-tratos-a-c%C3%A3es-framework?node-id=0%3A1
 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O presente trabalho tem por objetivo apontar um problema e propor uma forma de solucioná-lo, analisando a visão de pessoas que estão diretamente ligadas ao problema e que desejam solucioná-lo, fazendo necessária a realização de pesquisas qualitativas. A pesquisa qualitativa foi a escolhida, uma vez que possibilita o aprofundamento de ideias por parte do entrevistado, de forma que este fica livre para responder questões abertas da maneira que interpretar mehor, fornecendo uma visão ampla do problema estudado.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que haja um hierarquia específica em que os alunos que se sentem mais confortáveis com certas áreas de atuação tomaram a frente para assumir as tarefas de cada "setor". Os alunos Caio e Pedro ficaram responsáveis pela construção dos wireframes, enquanto os demias, Caroline, Danillo e Giulia focaram na parte da documentação do projeto. Anteriormente, cada integrante ficou responsável por estudar as diferentes personas possíveis para o projeto e, também, responsáveis por entrevistar e coletar dados sobre os clientes atraves de pesquisas qualitativas.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVOB18Ug8=/  | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20221-g4-maus-tratos-aos-animais |  
+|Protótipo Interativo | Figma | https://www.figma.com/file/4kpFmua7PFnK17rxomAxzQ/Maus-tratos-a-c%C3%A3es-framework?node-id=0%3A1 | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Editor de código: Visual Studio Code
+> - Ferramentas de comunicação: WhatsApp e Teams
+> - Ferramentas de diagramação: Bizagi
+> - Plataforma de hospedagem> GitHub
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
 > integração semelhante e por isso foram selecionadas. Por fim, para criar
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
 
