@@ -81,7 +81,14 @@ Dentre as personas estudadas, percebeu-se pontos em comum que são a vontade de 
 > 
 > 
 ## Persona
-> 
+> ![Persona](https://user-images.githubusercontent.com/103450981/163734523-531527af-efd8-483f-bbd5-50b12e81f388.jpeg)
+
+## Mapa de Empatia
+![mapa_de_empatia](https://user-images.githubusercontent.com/103450981/163734793-a85d75cf-f142-444a-9cec-e3f0840f22a7.png)
+
+## Mapa de Stakeholders
+![Stakeholders](https://user-images.githubusercontent.com/103450981/163734758-a24aa7ba-f847-4d60-bc11-f140b2617247.png)
+
 
 
 ## Histórias de Usuários
@@ -155,13 +162,28 @@ O projeto de interface foi elaborado a fim de facilitar a utilização do sistem
 
 ## Wireframes
 
-https://www.figma.com/file/4kpFmua7PFnK17rxomAxzQ/Maus-tratos-a-c%C3%A3es-framework?node-id=0%3A1
+## Tela Inicial
+> Nesta tela, o usuário tem acesso à pagina inicial do site e, através dela, poderá acessar ao perfil dos cães que estão disponíveis para adoção, acessar ao painel de ONGs que estão precisando de recursos para permanecerem com seu funcionamento, além de um painel com dicas para cuidar de seu pet
+
+> ![wireframe1](https://user-images.githubusercontent.com/103450981/163735000-c7b05867-4ead-4edb-9cdb-f68889f6f85c.PNG)
+
+## Tela de Adoção
+> Nessa tela, encontram-se descritas as ONGs parceiras que precisam receber as doações, como doação de dinheiro ou doação de recursos no geral
+> 
+> ![wireframe2](https://user-images.githubusercontent.com/103450981/163735121-39cda9b4-b8ab-4ece-be85-d03545e1f7f9.PNG)
+
+## Página de adoção 
+> Na seguinte página, estarão as fotos dos animais disponíveis para serem adotados, assim como um filtro para que os interessados escolham adequadamente o animal que pretende adotar
+> 
+> ![wireframe3](https://user-images.githubusercontent.com/103450981/163735176-b8b3483a-e00c-4dde-a4ae-7d0d0cda2c0a.PNG)
+
 
 
 # Metodologia
 
 O presente trabalho tem por objetivo apontar um problema e propor uma forma de solucioná-lo, analisando a visão de pessoas que estão diretamente ligadas ao problema e que desejam solucioná-lo, fazendo necessária a realização de pesquisas qualitativas. A pesquisa qualitativa foi a escolhida, uma vez que possibilita o aprofundamento de ideias por parte do entrevistado, de forma que este fica livre para responder questões abertas da maneira que interpretar mehor, fornecendo uma visão ampla do problema estudado.
 
+![matrizCSD](https://user-images.githubusercontent.com/103450981/163734843-6d181f58-3e07-48fd-99bf-b1c4fc0392f4.png)
 
 ## Divisão de Papéis
 
