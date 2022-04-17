@@ -111,8 +111,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Maria Julia         | Registrar minhas tarefas           | começar uma ONG, então o nosso aplicativo ajudaria ela a realizar seu sonho.               |
-|                    | Alterar permissões                 | Permitir que possam administrar contas |
+|Maria Julia         | um espaço de fácil comunicação com ONGs | começar sua própria ONG           |
+|Marcia              | que exista um serviço em que facilite a alocação de animais encontrados na reserva que foram abandonados e precisam ser tratados| expandir sua ONG e atrair mais membros para a equipe |
+|Fernanda            | um software para adotar cachorros resgatados e abrir a própria clínica veterinária | ajudar animais resgatados |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
