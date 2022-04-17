@@ -53,33 +53,22 @@ Caio Batella, Caroline Freitas Alvernaz, Danillo Soares Ferreira, Giulia Mendes 
 Atualmente, muitas Organizações Não Governamentais (ONGs) de ajuda aos animais relatam ter dificuldades em encontrar contribuintes e pessoas interessadas em adotar os animais que foram maltratados e deixados na ONG para tratamento, ao mesmo tempo em que ainda mais animais maltratados são deixados e, muitas vezes, passam o resto de suas vidas lá. Com isso, notou-se a necessidade de ajudar as ONGs tanto em uma melhor divulgação de suas atividades, quanto na divulgação de seus pets que estão aptos à adoção. Além disso, viu-se a carência de mostrar, de simular e apresentar ao futuro dono de pets os gastos e cuidados que o animal pode ter.
 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 O projeto possui como objetivo geral fornecer ajuda às ONGs de animais que, principalmente após a vigência da pandemia do Covid-19, estão perdendo seus patrocinadores.
 Como objetivos específicos tem-se: apresentar as necessidades básicas que um animal pode ter; divulgar as ONGs e quais são suas necessidades atuais; construir perfis básicos para apresentar os animais ao interessados em adoção; Mostrar a maneira correta de realizar as denúncias contra maus-tratos.
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
 Ao ver a quantidade de crescente de animais abandonados, foi criado um interesse em entrar em contato com as pessoas competentes, como veterinários e ONGs de ajuda aos animais, a fim de coletar maiores informações sobre o problema e buscar saber de que forma podemos contribuir. Ao contatar essas pessoas, foi exposta a necessidade real de divulgar melhor os pets que estão prontos para a adoção, uma vez que as ONGs, majoritariamente, não suportam a quantidade de animais que possuem, nem podem receber ainda mais animais. Além disso, pelo fato de muitas pessoas devolverem os pets com a justificativa de que não têm condições financeiras de manter o animal, deseja-se construir uma simulação de custos básicos que precisarão ser arcados no caso de a pessoa realmente querer seguir com a adoção. Ainda, muitas pessoas possuem dúvidas em relação à forma correta de denunciar maus-tratos, portanto viu-se a oportunidade e a necessidade de explicar a forma correta de o fazer.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 Os principais indivíduos que serão beneficiados e que também nos ajudarão no decorrer do projeto são os membros de ONGs de ajuda aos animais que possuem dificuldades de encontrar novos patrocinadores e novos donos de pets. Essas pessoas possuem como principal queixa a falta de adoção dos animais, portanto faz-se necessário apoiar a causa. Além dos citados anteriormente, ainda é importante citar que os já donos de animais, a Polícia Civil, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), influenciadores e outros cidadãos dispostos a ajudar, são peças importantes para a continuidade e crescente do projeto.
 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
@@ -94,9 +83,6 @@ Dentre as personas estudadas, percebeu-se pontos em comum que são a vontade de 
 > **Persona**
 > 
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
@@ -109,9 +95,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Marcia              | que exista um serviço em que facilite a alocação de animais encontrados na reserva que foram abandonados e precisam ser tratados| expandir sua ONG e atrair mais membros para a equipe |
 |Fernanda            | um software para adotar cachorros resgatados e abrir a própria clínica veterinária | ajudar animais resgatados |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
 
@@ -145,11 +129,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ## Restrições
 
@@ -163,10 +142,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 # Projeto de Interface
 
@@ -175,20 +150,7 @@ O projeto de interface foi elaborado a fim de facilitar a utilização do sistem
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 
@@ -233,7 +195,6 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
@@ -256,15 +217,6 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
@@ -346,11 +298,6 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - CANGUÇU, Rafael. O que são Requisitos Funcionais e Requisitos Não Funcionais?. [S.l.]: Codificar, 2021. Disponíve em: <https://codificar.com.br/requisitos-funcionais-nao-funcionais/>. Acesso em: 10 abr. 2022.
+> - PAROLE, Versio. Objetivos, Problema de pesquisa e Justificativa. [S.l.: s.n.], 2015. Disponível em: <https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3>. Acesso em: 10 abr. 2022.
+> - PRADA, Charles. Brainstorming: o que é e como aplicar na geração de novas ideias. Santa Catarina: EUAX Consulting, 2018. Disponível em: <https://www.euax.com.br/2018/09/brainstorming/>. Acesso em : 11 abr. 2022.
