@@ -80,8 +80,8 @@ Dentre as personas estudadas, percebeu-se pontos em comum que são a vontade de 
 
 > 
 > 
-> **Persona**
-> 
+## Persona
+>
 > 
 
 
