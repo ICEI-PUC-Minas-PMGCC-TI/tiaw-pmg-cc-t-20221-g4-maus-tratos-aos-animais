@@ -1,4 +1,5 @@
 # Divulgação: Apresentação do Projeto
 
-Nesta pasta inclua arquivos de slides que foram produzidos para apresentações do projeto e de seus resultados.
+> [apresentacao.pptx](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20221-g4-maus-tratos-aos-animais/files/8502906/apresentacao.pptx)
+
 
