@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-Maus-tratos contra os animais.
+## Maus-tratos contra os animais.
 
 `CURSO` 
 
-Ciência da Computação
+## Ciência da Computação
 
 ## Participantes
 
