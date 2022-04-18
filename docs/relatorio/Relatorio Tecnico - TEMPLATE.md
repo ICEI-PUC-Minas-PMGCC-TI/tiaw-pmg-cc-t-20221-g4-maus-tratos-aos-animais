@@ -67,7 +67,7 @@ Ao ver a quantidade de crescente de animais abandonados, foi criado um interesse
 
 ## Público-Alvo
 
-Os principais indivíduos que serão beneficiados e que também nos ajudarão no decorrer do projeto são os membros de ONGs de ajuda aos animais que possuem dificuldades de encontrar novos patrocinadores e novos donos de pets. Essas pessoas possuem como principal queixa a falta de adoção dos animais, portanto faz-se necessário apoiar a causa. Além dos citados anteriormente, ainda é importante citar que os já donos de animais, a Polícia Civil, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), influenciadores e outros cidadãos dispostos a ajudar, são peças importantes para a continuidade e crescente do projeto.
+Ainda que todas as pessoas possam usufruir do site, o enfoque está no público que tem interesse em ajudar os animais que sofrem com maus tratos. Assim, foi estabelecido como público-alvo homens e mulheres de 20 a 70 anos que tem como objetivo adotar animais abandonados e/ou que sofreram maus-tratos, e ajudar ONGs com doações e ações voluntárias.
 
  
 # Especificações do Projeto
