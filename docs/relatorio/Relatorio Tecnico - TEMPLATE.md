@@ -245,7 +245,7 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ideia do software é unir as pessoas que queiram ajudar uma ong ou adotar um pet e ongs no mesmo ambiente, entre outras ferramentas como calculadora média de gastos.
 
 ## Tecnologias Utilizadas
 
@@ -286,7 +286,8 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Teste do formulário para aprovação no processo de adoção: Primeiramente foi respondido o formulário com respostas que desclassificariam o usuário do processo de adoção para certificar-se de que o usuário iria ser desclassificado, após isso foi respondido o formulário sem respostas eliminatórias para certificar-se de que o usuário seria aprovado.
+Teste das ferramentas básicas do site como registro e login de usuário: Foi criado um usuário e após isso logamos no site com o mesmo usuário para certificar-se de que tudo funcionaria corretamente.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -310,13 +311,10 @@ O trabalho foi desenvolvido através de uma divisão simples de tarefas, sem que
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Teste de cadastrar um pet no site: Sucesso, não houve problemas.
+Teste do formulário para aprovação no processo de adoção: Sucesso, tanto a aprovação quanto a reprovação baseada nas respostas do usuário.
+Teste da calculadora média de gastos: Sucesso, totalmente funcional.
+Teste das ferramentas básicas do site como resgistro e login de usuário: Sucesso, todas funcionais.
 
 # Referências
 
