@@ -278,7 +278,7 @@ A ideia do software é unir as pessoas que queiram ajudar uma ong ou adotar um p
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Teste do formulário, da calculadora e das ferramentas básicas do site.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -286,7 +286,8 @@ A ideia do software é unir as pessoas que queiram ajudar uma ong ou adotar um p
 
 ## Plano de Testes
 
-Teste do formulário para aprovação no processo de adoção: Primeiramente foi respondido o formulário com respostas que desclassificariam o usuário do processo de adoção para certificar-se de que o usuário iria ser desclassificado, após isso foi respondido o formulário sem respostas eliminatórias para certificar-se de que o usuário seria aprovado.
+Teste do formulário para aprovação e reprovação no processo de adoção: Primeiramente foi respondido o formulário com respostas que desclassificariam o usuário do processo de adoção para certificar-se de que o usuário iria ser desclassificado, após isso foi respondido o formulário sem respostas eliminatórias para certificar-se de que o usuário seria aprovado.
+
 Teste das ferramentas básicas do site como registro e login de usuário: Foi criado um usuário e após isso logamos no site com o mesmo usuário para certificar-se de que tudo funcionaria corretamente.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
