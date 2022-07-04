@@ -280,9 +280,6 @@ A ideia do software é unir as pessoas que queiram ajudar uma ong ou adotar um p
 
 Executamos como o esperado para ver se funcionaria corretamente, depois executamos como o não esperado para ver as mensagens de erros e achar problemas para resolvermos e nas ferramentas de mais de uma opção tentamos todas para certificar que tudo estava correto.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
@@ -290,15 +287,6 @@ Teste do formulário para aprovação e reprovação no processo de adoção: Pr
 
 Teste das ferramentas básicas do site como registro e login de usuário: Foi criado um usuário e após isso logamos no site com o mesmo usuário para certificar-se de que tudo funcionaria corretamente.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
 ## Ferramentas de Testes (Opcional)
 
