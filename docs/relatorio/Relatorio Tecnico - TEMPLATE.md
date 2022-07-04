@@ -278,7 +278,7 @@ A ideia do software é unir as pessoas que queiram ajudar uma ong ou adotar um p
 
 # Avaliação da Aplicação
 
-Teste do formulário, da calculadora e das ferramentas básicas do site.
+Executamos como o esperado para ver se funcionaria corretamente, depois executamos como o não esperado para ver as mensagens de erros e achar problemas para resolvermos e nas ferramentas de mais de uma opção tentamos todas para certificar que tudo estava correto.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
