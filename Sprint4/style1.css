@@ -1,0 +1,119 @@
+.logo{
+    max-width: 150px;
+  }
+.animasi{
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+  }
+  .nav{
+    
+    top: 40px;
+   left: 30%;
+   background-color: rgb(214, 212, 253);
+   margin: 10px;
+  
+  
+}
+header{
+    background-size: cover;
+    background-position: 0px -600px;
+    padding: 15px;
+    background-color: rgb(129, 234, 248);
+    margin: 0px;
+    
+}
+.apresentação{
+    background-color: rgb(137, 196, 235);
+    
+}
+
+.banners{
+    margin-left: 10px;
+    padding: 5%; 
+    ;
+}
+.cindy{
+    text-align: center;
+     background-color: rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .lord{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .snoppy{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .leon{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .dick{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .kid{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .pixote{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px;
+     
+ }
+ .priscyla{
+    text-align: center;
+     background-color:rgb(235, 226, 238);
+     margin-block-end: 50px; 
+     
+ }
+
+
+
+.denuncia{
+    background-color:rgb(129, 234, 248); 
+}
+.denuncia h1{
+    text-align: center;
+    padding: 15px;
+}
+.denuncia p{
+    margin: 30px;
+    margin-left: 200px;
+}
+.denunciaestado {
+    background-color:rgb(49, 217, 240);
+    margin: 30px;
+    padding: 5%;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(137, 196, 235);
+   
+}
+.logofooter{
+  
+    max-width: 100px;
+}
+.aujuda{
+    width: 80px;
+    height: 30px;
+  }
+
+
+
